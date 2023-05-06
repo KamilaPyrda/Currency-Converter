@@ -1,0 +1,11 @@
+.body {
+    background-color: rgb(246, 236, 249);
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: auto;
+    padding: 20px;
+}
+
+.element {
+    background-image: url("../images/landscape2.jpg");
+}
