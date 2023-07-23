@@ -4,4 +4,4 @@
 
 [Currency-Convrter](https://github.com/KamilaPyrda/Currency-Converter.git)
 
-![](https://kamilapyrda.github.io/Currency-Converter/)
+![](https://github.com/KamilaPyrda/Currency-Convrter/blob/main/images/icon.png?raw=true)
