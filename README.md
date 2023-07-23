@@ -5,4 +5,4 @@ Currency Converter
 
 [Currency-Convrter](https://github.com/KamilaPyrda/Currency-Convrter.git)
 
-![](C:\dev\Moduł 5 GIT\Prace domowe GIT\CurrencyConverterGit\images)
+![]()
